@@ -10,4 +10,4 @@ compares adjacent elements and swaps them if they are in the wrong order.
 - Average case: O(n^2)
 - Worst case: O(n^2)
 
-## Author Razan and Shahad 
+## Authors Razan and Shahad 
